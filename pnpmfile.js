@@ -6,7 +6,7 @@ module.exports = {
 
 function readPackage(pkg) {
 if (pkg.dependencies["@vaadin/vaadin-date-picker"]) {
-  pkg.dependencies["@vaadin/vaadin-date-picker"] = "4.1.0";
+  pkg.dependencies["@vaadin/vaadin-date-picker"] = "4.1.1";
 }
 
 if (pkg.dependencies["@vaadin/vaadin-date-time-picker"]) {
