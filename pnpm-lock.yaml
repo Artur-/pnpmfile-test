@@ -79,11 +79,11 @@ packages:
   /@vaadin/vaadin-button/2.3.0:
     dependencies:
       '@polymer/polymer': 3.4.1
-      '@vaadin/vaadin-control-state-mixin': 2.2.2
-      '@vaadin/vaadin-element-mixin': 2.4.1
+      '@vaadin/vaadin-control-state-mixin': 2.1.3
+      '@vaadin/vaadin-element-mixin': 2.3.2
       '@vaadin/vaadin-lumo-styles': 1.6.0
       '@vaadin/vaadin-material-styles': 1.3.2
-      '@vaadin/vaadin-themable-mixin': 1.6.1
+      '@vaadin/vaadin-themable-mixin': 1.5.2
     dev: false
     resolution:
       integrity: sha512-FnKvsxwBQhXWV/kW+PNY+vFF+V6cQE6IiSH32LZ6rlZ+aqsvpRLEF4yNr3sg39yBsdWfeU1J+44Ne4chPbcizA==
@@ -127,24 +127,6 @@ packages:
     dev: false
     resolution:
       integrity: sha512-fPaIJFjYO6UO4HMUA2Ps3GRPE1/gNPLvGSwy7x9L1vGk6iPW5PX0GObj+LE14PIzvJGW/9UcbaSSPhFrK6FL1g==
-  /@vaadin/vaadin-date-picker/4.1.0:
-    dependencies:
-      '@polymer/iron-a11y-announcer': 3.0.2
-      '@polymer/iron-a11y-keys-behavior': 3.0.1
-      '@polymer/iron-media-query': 3.0.1
-      '@polymer/iron-resizable-behavior': 3.0.1
-      '@polymer/polymer': 3.4.1
-      '@vaadin/vaadin-button': 2.3.0
-      '@vaadin/vaadin-control-state-mixin': 2.2.2
-      '@vaadin/vaadin-element-mixin': 2.4.1
-      '@vaadin/vaadin-lumo-styles': 1.6.0
-      '@vaadin/vaadin-material-styles': 1.3.2
-      '@vaadin/vaadin-overlay': 3.5.1
-      '@vaadin/vaadin-text-field': 2.6.0
-      '@vaadin/vaadin-themable-mixin': 1.6.1
-    dev: false
-    resolution:
-      integrity: sha512-wyPdxRZy6jMhgSAJGlVXrK2jCIznq0EePAiFp+gGsDCddiiEf6NpJWPj0ph0qMs8NFY0fERx7QvnTFuYC7W7QQ==
   /@vaadin/vaadin-date-picker/4.1.1:
     dependencies:
       '@polymer/iron-a11y-announcer': 3.0.2
@@ -167,7 +149,7 @@ packages:
     dependencies:
       '@polymer/polymer': 3.4.1
       '@vaadin/vaadin-custom-field': 1.1.0
-      '@vaadin/vaadin-date-picker': 4.1.0
+      '@vaadin/vaadin-date-picker': 4.1.1
       '@vaadin/vaadin-element-mixin': 2.4.1
       '@vaadin/vaadin-lumo-styles': 1.6.0
       '@vaadin/vaadin-material-styles': 1.3.2
@@ -223,10 +205,10 @@ packages:
   /@vaadin/vaadin-overlay/3.4.0:
     dependencies:
       '@polymer/polymer': 3.4.1
-      '@vaadin/vaadin-element-mixin': 2.4.1
+      '@vaadin/vaadin-element-mixin': 2.3.2
       '@vaadin/vaadin-lumo-styles': 1.6.0
       '@vaadin/vaadin-material-styles': 1.3.2
-      '@vaadin/vaadin-themable-mixin': 1.6.1
+      '@vaadin/vaadin-themable-mixin': 1.5.2
     dev: false
     resolution:
       integrity: sha512-796BtX3irl3HzEqXmvBzfUb5/WljD7x8hRnH+9OAW8jWAXg+mtPnxZEyGyhJF0s9D55Uliwj1ErkR4EHZ97How==
@@ -243,11 +225,11 @@ packages:
   /@vaadin/vaadin-text-field/2.6.0:
     dependencies:
       '@polymer/polymer': 3.4.1
-      '@vaadin/vaadin-control-state-mixin': 2.2.2
-      '@vaadin/vaadin-element-mixin': 2.4.1
+      '@vaadin/vaadin-control-state-mixin': 2.1.3
+      '@vaadin/vaadin-element-mixin': 2.3.2
       '@vaadin/vaadin-lumo-styles': 1.6.0
       '@vaadin/vaadin-material-styles': 1.3.2
-      '@vaadin/vaadin-themable-mixin': 1.6.1
+      '@vaadin/vaadin-themable-mixin': 1.5.2
     dev: false
     resolution:
       integrity: sha512-ErwPR67Fq1Zw9VWdj1ZHPk5JuNR0n+lMQk2wH7JmH1xibzXC20t2qkgaJUDnT5YpJ4Ap+7ZypUxBKWcbDu9D3A==
